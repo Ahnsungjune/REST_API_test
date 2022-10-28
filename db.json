@@ -251,15 +251,6 @@
             "imgURL": "28번 imgURL",
             "fileURL": "28번 fileURL",
             "youtubeLink": "28번 youtubeLink"
-        },
-        {
-            "id": 29,
-            "title": "29번 title",
-            "content": "29번 content",
-            "date": "29번 date",
-            "imgURL": "29번 imgURL",
-            "fileURL": "29번 fileURL",
-            "youtubeLink": "29번 youtubeLink"
         }
     ]   
 }
