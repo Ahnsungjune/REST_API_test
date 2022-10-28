@@ -314,51 +314,6 @@
             "imgURL": "35번 imgURL",
             "fileURL": "35번 fileURL",
             "youtubeLink": "35번 youtubeLink"
-        },
-        {
-            "id": 36,
-            "title": "36번 title",
-            "content": "36번 content",
-            "date": "36번 date",
-            "imgURL": "36번 imgURL",
-            "fileURL": "36번 fileURL",
-            "youtubeLink": "36번 youtubeLink"
-        },
-        {
-            "id": 37,
-            "title": "37번 title",
-            "content": "37번 content",
-            "date": "37번 date",
-            "imgURL": "37번 imgURL",
-            "fileURL": "37번 fileURL",
-            "youtubeLink": "37번 youtubeLink"
-        },
-        {
-            "id": 38,
-            "title": "38번 title",
-            "content": "38번 content",
-            "date": "38번 date",
-            "imgURL": "38번 imgURL",
-            "fileURL": "38번 fileURL",
-            "youtubeLink": "38번 youtubeLink"
-        },
-        {
-            "id": 39,
-            "title": "39번 title",
-            "content": "39번 content",
-            "date": "39번 date",
-            "imgURL": "39번 imgURL",
-            "fileURL": "39번 fileURL",
-            "youtubeLink": "39번 youtubeLink"
-        },
-        {
-            "id": 40,
-            "title": "40번 title",
-            "content": "40번 content",
-            "date": "40번 date",
-            "imgURL": "40번 imgURL",
-            "fileURL": "40번 fileURL",
-            "youtubeLink": "40번 youtubeLink"
         }
     ]   
 }
